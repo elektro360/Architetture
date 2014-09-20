@@ -1,4 +1,4 @@
 Architetture
 ============
 
-Appunti, esami e materiale di Architetture degli elaboratori
+Appunti, esami e materiale di Architetture degli Elaboratori
